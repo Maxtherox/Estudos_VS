@@ -1,0 +1,7 @@
+Podemos clonar um repositório do github colocando a URL.
+Introdução>Clonar Url
+
+Caso o projeto não esteja associado ao Git, podemos criar um novo repositório no menu GIT > Criar repositório GIT.
+
+Depois de clonar ou criar um prepositório, é possivel acessá-lo no menu GIT > Repositórios locais
+
